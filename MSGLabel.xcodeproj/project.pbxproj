@@ -19,7 +19,8 @@
 		5917F4A31796ACCB008A7497 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5917F4A21796ACCB008A7497 /* ViewController.m */; };
 		5917F4A61796ACCB008A7497 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5917F4A41796ACCB008A7497 /* ViewController.xib */; };
 		5917F4AE1796ACFC008A7497 /* MSGLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5917F4AD1796ACFC008A7497 /* MSGLabel.m */; };
-		5928D09C1796D0A600470F53 /* iOS Simulator Screen shot 17-Jul-2013 6.16.19 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5928D09B1796D0A600470F53 /* iOS Simulator Screen shot 17-Jul-2013 6.16.19 PM.png */; };
+		5928D0A31796D2C700470F53 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5928D0A21796D2C700470F53 /* README.md */; };
+		5928D0A61796D41D00470F53 /* iOS Simulator Screen shot 17-Jul-2013 7.00.43 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5928D0A51796D41D00470F53 /* iOS Simulator Screen shot 17-Jul-2013 7.00.43 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,7 +42,8 @@
 		5917F4A51796ACCB008A7497 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		5917F4AC1796ACFC008A7497 /* MSGLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSGLabel.h; sourceTree = SOURCE_ROOT; };
 		5917F4AD1796ACFC008A7497 /* MSGLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSGLabel.m; sourceTree = SOURCE_ROOT; };
-		5928D09B1796D0A600470F53 /* iOS Simulator Screen shot 17-Jul-2013 6.16.19 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen shot 17-Jul-2013 6.16.19 PM.png"; sourceTree = "<group>"; };
+		5928D0A21796D2C700470F53 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
+		5928D0A51796D41D00470F53 /* iOS Simulator Screen shot 17-Jul-2013 7.00.43 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen shot 17-Jul-2013 7.00.43 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +105,8 @@
 		5917F4901796ACCA008A7497 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				5928D09B1796D0A600470F53 /* iOS Simulator Screen shot 17-Jul-2013 6.16.19 PM.png */,
+				5928D0A51796D41D00470F53 /* iOS Simulator Screen shot 17-Jul-2013 7.00.43 PM.png */,
+				5928D0A21796D2C700470F53 /* README.md */,
 				5917F4911796ACCA008A7497 /* MSGLabel-Info.plist */,
 				5917F4921796ACCA008A7497 /* InfoPlist.strings */,
 				5917F4951796ACCA008A7497 /* main.m */,
@@ -171,7 +174,8 @@
 				5917F49E1796ACCA008A7497 /* Default@2x.png in Resources */,
 				5917F4A01796ACCB008A7497 /* Default-568h@2x.png in Resources */,
 				5917F4A61796ACCB008A7497 /* ViewController.xib in Resources */,
-				5928D09C1796D0A600470F53 /* iOS Simulator Screen shot 17-Jul-2013 6.16.19 PM.png in Resources */,
+				5928D0A31796D2C700470F53 /* README.md in Resources */,
+				5928D0A61796D41D00470F53 /* iOS Simulator Screen shot 17-Jul-2013 7.00.43 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
