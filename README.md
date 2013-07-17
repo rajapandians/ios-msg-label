@@ -17,6 +17,6 @@ Do as below
     [self.view addSubview:lll];
     
 ![ScreenShot](https://raw.github.com/rajapandians/ios-msg-label/master/RJLabel/iOS Simulator Screen shot 17-Jul-2013 6.16.19 PM.png)
-    
-    
+![ScreenShot](https://raw.github.com/rajapandians/ios-msg-label/master/RJLabel/iOS Simulator Screen shot 17-Jul-2013 7.00.43 PM.png)
+     
 Thanks. :)
