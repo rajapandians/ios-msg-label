@@ -1,8 +1,7 @@
 ios-msg-label
 =============
 
-its a simple lib to show the UIlabel with space around the text inside
-
+Its a simple lib to show the UIlabel with auto-sizie,space around the text inside(indent/margin/padding around the string)
 Steps:
 
 Import "MSGLabel.h" into your controller
