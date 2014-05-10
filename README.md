@@ -1,7 +1,7 @@
 ios-msg-label
 =============
 
-Its a simple lib to show the UIlabel with auto-sizie,space around the text inside(indent/margin/padding around the string)
+Its a simple lib to show the UIlabel with auto-size,space around the text inside(indent/margin/padding around the string)
 
 Steps:
 
